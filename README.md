@@ -6,7 +6,7 @@ This project presents a comprehensive Coffee Sales Dashboard designed to analyze
 - <a href="https://github.com/Shifanaks/coffee-sales-dashboard/blob/main/coffee%20sales%20dataset.csv">Dataset</a>
 
 ## Questions (KPIs)
-- What is the total revenue generated from January 2024 to March 2025?
+- What is the total revenue generated from March 2024 to March 2025?
 - Which coffee product contributed the most to total sales revenue?
 - Which month recorded the highest and lowest revenue?
 - What is the average monthly revenue during the analyzed period?
@@ -25,3 +25,16 @@ This project presents a comprehensive Coffee Sales Dashboard designed to analyze
 - Analyzed the data to find total revenue, best-selling products, and sales trends
 - Created Pivot Tables to summarize the data by product, month, and day
 - Merged all charts and visuals into one clean and interactive dashboard and used Slicers to filter data dynamically by product type and time period
+
+## Project Insights
+- Total Revenue from March 2024 to March 2025 is ₹1,12,245.58
+- Latte is the highest-selling product, followed by Americano with Milk
+- Espresso and Cortado are the lowest-performing products
+- March 2024 had the highest revenue, indicating a seasonal sales peak
+- Sales are stronger on weekdays, especially on Monday and Tuesday
+- Sunday shows the lowest revenue, suggesting less footfall or demand
+- Milk-based coffee products are more popular among customers
+- Revenue trends highlight opportunities to focus marketing in high-performing months
+
+## Final Conclusion
+The Coffee Sales Dashboard provides a clear and interactive view of sales performance from March 2024 to March 2025. By analyzing revenue across time periods and products, the dashboard reveals strong customer preferences for milk-based coffee, peak sales days, and key months for business growth. These insights can support strategic decisions in marketing, product promotion, and operational planning to drive future sales performance.
