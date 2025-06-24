@@ -4,3 +4,24 @@ This project presents a comprehensive Coffee Sales Dashboard designed to analyze
 
 ## Dataset used
 - <a href="https://github.com/Shifanaks/coffee-sales-dashboard/blob/main/coffee%20sales%20dataset.csv">Dataset</a>
+
+## Questions (KPIs)
+- What is the total revenue generated from January 2024 to March 2025?
+- Which coffee product contributed the most to total sales revenue?
+- Which month recorded the highest and lowest revenue?
+- What is the average monthly revenue during the analyzed period?
+- Which day(s) of the week show the highest and lowest sales performance?
+- How does revenue trend month-over-month from 2024 to March 2025?
+- Are weekdays more profitable than weekends in terms of sales?
+- How does product performance vary when filtered by time period?
+
+## Dashboard
+<a href="https://github.com/Shifanaks/coffee-sales-dashboard/blob/main/Coffee%20Sales%20Dashboard.png">Dashboard</a>
+
+## Process
+- Collected and imported the sales dataset into Microsoft Excel
+- Cleaned the data using Power Query Editor (removed blanks, formatted columns)
+- Transformed the data by creating new columns like Month, and Weekday
+- Analyzed the data to find total revenue, best-selling products, and sales trends
+- Created Pivot Tables to summarize the data by product, month, and day
+- Merged all charts and visuals into one clean and interactive dashboard and used Slicers to filter data dynamically by product type and time period
