@@ -26,6 +26,10 @@ This project presents a comprehensive Coffee Sales Dashboard designed to analyze
 - Created Pivot Tables to summarize the data by product, month, and day
 - Merged all charts and visuals into one clean and interactive dashboard and used Slicers to filter data dynamically by product type and time period
 
+## Dashboard 
+![Coffee Sales Dashboard](https://github.com/user-attachments/assets/b164ac6f-0731-49b1-aeb0-81f96f9b1315)
+
+
 ## Project Insights
 - Total Revenue from March 2024 to March 2025 is ₹1,12,245.58
 - Latte is the highest-selling product, followed by Americano with Milk
